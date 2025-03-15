@@ -9,4 +9,4 @@ About me
 
 ## Programming Lenguages
 
-[![My Skills](https://skillicons.dev/icons?i=js,python,c++,c,javascript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,python,cpp,c,)](https://skillicons.dev)
