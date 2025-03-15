@@ -7,5 +7,6 @@ About me
 - 👯 I’m currently working on several personal projects, including Meta glasses face recognition.
 - 📫 How to reach me: luiscoronel2500@gmail.com
 
-Programming Lenguages
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+## Programming Lenguages
+
+[![My Skills](https://skillicons.dev/icons?i=js,python,c++,c,javascript)](https://skillicons.dev)
