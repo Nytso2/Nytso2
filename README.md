@@ -7,9 +7,9 @@ About me
 - 👯 I’m currently working on several personal projects
 - 📫 How to reach me: luiscoronel2500@gmail.com
 
-## Programming Lenguages
+## Programming Languages
 
 [![My Skills](https://skillicons.dev/icons?i=js,python,cpp,c,r,css,html)](https://skillicons.dev)
 
-## Other sklls
+## Other skills
 [![My Skills](https://skillicons.dev/icons?i=github,linux,ps,pr,au,blender,ae,numpy,pandas)](https://skillicons.dev)
