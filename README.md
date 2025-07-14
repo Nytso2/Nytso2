@@ -12,4 +12,4 @@ About me
 [![My Skills](https://skillicons.dev/icons?i=js,python,cpp,c,r,css,html,react)](https://skillicons.dev)
 
 ## Other skills
-[![My Skills](https://skillicons.dev/icons?i=github,linux,ps,pr,au,blender,ae,numpy,pandas,argispro,maya)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,linux,ps,pr,au,blender,ae,numpy,pandas,Maya)](https://skillicons.dev)
