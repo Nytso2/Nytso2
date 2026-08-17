@@ -12,7 +12,7 @@
 
 ## About Me
 
-- Rising senior at Washington and Lee University, majoring in Computer Science and Business Administration
+- Senior at Washington and Lee University, majoring in Computer Science and Business Administration
 - Interested in Software Development, Data Science, Machine Learning, Computer Vision, and Security & Systems
 - Currently building several personal projects — see my pinned repositories below
 - Reach me at [lcoronel@mail.wlu.edu](mailto:lcoronel@mail.wlu.edu) or through [LinkedIn](https://linkedin.com/in/luiscoronelr)
