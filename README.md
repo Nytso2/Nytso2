@@ -27,12 +27,3 @@
 **Tools & Platforms**
 
 [![My Skills](https://skillicons.dev/icons?i=github,linux,ps,pr,au,blender,ae,numpy,pandas,Maya)](https://skillicons.dev)
-
-## GitHub Stats
-
-<table align="center">
-  <tr>
-    <td><img src="https://github-stats-extended.vercel.app/api?username=lcoronelr&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Luis's GitHub stats" /></td>
-    <td><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=lcoronelr&layout=compact&theme=default&hide_border=true" alt="Top Languages" /></td>
-  </tr>
-</table>
